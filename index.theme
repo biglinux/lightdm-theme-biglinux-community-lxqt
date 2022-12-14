@@ -3,4 +3,4 @@ name=biglinux-community-lxqt
 description=Tema para o Lightdm do BigLinux Communinity
 engine=lightdm-webkit2-greeter
 url=index.html
-session=awesome
+session=lxqt
