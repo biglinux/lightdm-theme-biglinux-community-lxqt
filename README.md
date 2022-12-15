@@ -1,6 +1,6 @@
 ## Tema do LightDM para LXQt
 
-Um tema leve, funcional e bonito para o LightDM webkit2. Este tema é usado para a distribuição BigLinux Community LXQt.
+Um tema leve, funcional e bonito para o LightDM webkit2. Este tema é usado para a distribuição BigLinux Community LXQt..
 
 ### Dependência
 
